@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\hhhBot.exe
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\hhhBot.deps.json
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\hhhBot.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\hhhBot.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\hhhBot.dll
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\hhhBot.pdb
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.csproj.CopyComplete
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.dll
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.pdb
+C:\Users\Admin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\hhhBot.genruntimeconfig.cache
